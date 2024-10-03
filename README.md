@@ -1,17 +1,16 @@
-# Frontend Mentor - Tip calculator app
+# Trip Planner - Travel app
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+Trip Planner is a travel planning tool designed to make it easier to organize and share trip ideas. Initially, this project started when I wanted to share travel suggestions with my husband through Google Docs, but it lacked interactivity and appeal.
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+**The goal of the project is to build a dynamic and engaging platform where users can easily plan and manage their trips and vacations.
 
-## The challenge
-
-Your challenge is to build out this tip calculator app and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+The app is currently in the development phase. A basic structure has been created in Figma, and the frontend is being built with React, as I continue to improve my skills in React development through an ongoing Udemy course. The design and functionality will evolve as the project progresses.
 
 Your users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Calculate the correct tip and total cost of the bill per person
+Create trips with multiple destinations
+Add custom tags to trips for easy filtering
+Select locations on a map, and add descriptions and links for inspiration
+Browse trips in list format or on a map, with destinations represented by clickable dots showing brief details
+Invite friends to collaborate on vacation plans, vote on accommodations, assign tasks, and manage personal checklists
+View a user profile that tracks both planned and past vacations, with editing and sharing options for trips
